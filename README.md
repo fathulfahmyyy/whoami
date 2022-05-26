@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fatfahmy
 - 👀 I’m interested in coding and dessert
 - 🌱 I’m currently learning computer science and programming
-- 💞️ I’m looking to collaborate on c and py projects
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 Currently unreachable
 
 <!---
