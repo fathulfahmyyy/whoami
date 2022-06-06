@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fatfahmy
-- 👀 I’m interested in coding and dessert
-- 🌱 I’m currently learning computer science and programming
+- 👋 Hi, I’m @fathulfahmyyy
+- 👀 I’m interested in coding and UX design
+- 🌱 I’m currently pursuing bachelor's degree in software engineering @ UNITEN
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Currently unreachable
 
