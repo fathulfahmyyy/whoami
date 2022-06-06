@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and UX design
 - 🌱 I’m currently pursuing bachelor's degree in software engineering @ UNITEN
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 Currently unreachable
+- 📫 https://www.linkedin.com/in/fathulfahmy
 
 <!---
 fatfahmy/fatfahmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
